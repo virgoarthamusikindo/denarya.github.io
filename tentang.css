@@ -1,0 +1,15 @@
+body {
+    font-family: "bebas neue" sans-serif;
+}
+
+
+main .tentang {
+margin: 40px auto;
+}
+main .tentang span {
+    color: rgb(181, 75, 0);
+}
+
+main .hero1 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+}
